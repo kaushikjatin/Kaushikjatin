@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img height="300px" src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" alt="Hello World">
+<img height="300px" src="https://media1.tenor.com/images/92fa495ae796f3fd21aa42f692cfec01/tenor.gif?itemid=14975079" alt="Hello World">
  
 </div>
 
@@ -17,7 +17,7 @@ Hello, I am [Jatin Kaushik](https://www.linkedin.com/in/jatin-kaushik-15b5b3175/
 - 👯 I’m looking to collaborate on MERN Stack projects.
 - 💬 Ask me about Web Technologies , Deep Learning and Competitive Programming.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I can to know about this from one of my juniors.
+- ⚡ Fun fact: I came to know about this from one of my juniors.
 
 <br>
 
